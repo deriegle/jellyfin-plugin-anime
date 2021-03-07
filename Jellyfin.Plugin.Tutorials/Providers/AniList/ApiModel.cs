@@ -6,9 +6,9 @@ using MediaBrowser.Model.Entities;
 using MediaBrowser.Controller.Entities;
 using MediaBrowser.Controller.Entities.TV;
 using MediaBrowser.Controller.Entities.Movies;
-using Jellyfin.Plugin.Anime.Configuration;
+using Jellyfin.Plugin.Tutorials.Configuration;
 
-namespace Jellyfin.Plugin.Anime.Providers.AniList
+namespace Jellyfin.Plugin.Tutorials.Providers.AniList
 {
     using System.Collections.Generic;
     

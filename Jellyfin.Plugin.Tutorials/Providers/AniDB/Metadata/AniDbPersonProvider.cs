@@ -12,7 +12,7 @@ using MediaBrowser.Controller.Providers;
 using MediaBrowser.Model.Entities;
 using MediaBrowser.Model.Providers;
 
-namespace Jellyfin.Plugin.Anime.Providers.AniDB.Metadata
+namespace Jellyfin.Plugin.Tutorials.Providers.AniDB.Metadata
 {
     public class AniDbPersonProvider : IRemoteMetadataProvider<Person, PersonLookupInfo>
     {

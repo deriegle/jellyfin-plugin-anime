@@ -1,8 +1,8 @@
-namespace Jellyfin.Plugin.Anime
+namespace Jellyfin.Plugin.Tutorials
 {
     public static class Constants
     {
-        public const string PluginName = "Anime";
-        public const string PluginGuid = "a4df60c5-6ab4-412a-8f79-2cab93fb2bc5";
+        public const string PluginName = "Tutorials";
+        public const string PluginGuid = "0db4fc83-a755-4074-8c73-99425e43da24";
     }
 }

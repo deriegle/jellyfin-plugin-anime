@@ -1,4 +1,4 @@
-﻿namespace Jellyfin.Plugin.Anime.Providers
+﻿namespace Jellyfin.Plugin.Tutorials.Providers
 {
     public class ProviderNames
     {

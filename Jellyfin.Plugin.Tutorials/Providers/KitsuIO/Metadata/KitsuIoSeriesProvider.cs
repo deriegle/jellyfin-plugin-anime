@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Web;
 using System.Net.Http;
-using Jellyfin.Plugin.Anime.Providers.KitsuIO.ApiClient;
+using Jellyfin.Plugin.Tutorials.Providers.KitsuIO.ApiClient;
 using MediaBrowser.Common.Configuration;
 using MediaBrowser.Common.Net;
 using MediaBrowser.Controller.Providers;
@@ -14,7 +14,7 @@ using MediaBrowser.Model.Entities;
 using MediaBrowser.Model.Providers;
 using Microsoft.Extensions.Logging;
 
-namespace Jellyfin.Plugin.Anime.Providers.KitsuIO.Metadata
+namespace Jellyfin.Plugin.Tutorials.Providers.KitsuIO.Metadata
 {
     public class KitsuIoSeriesProvider : IRemoteMetadataProvider<MediaBrowser.Controller.Entities.TV.Series, SeriesInfo>, IHasOrder
     {

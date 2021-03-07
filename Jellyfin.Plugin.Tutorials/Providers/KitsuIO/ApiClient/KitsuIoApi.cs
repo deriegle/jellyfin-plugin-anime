@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace Jellyfin.Plugin.Anime.Providers.KitsuIO.ApiClient
+namespace Jellyfin.Plugin.Tutorials.Providers.KitsuIO.ApiClient
 {
     internal class KitsuIoApi
     {

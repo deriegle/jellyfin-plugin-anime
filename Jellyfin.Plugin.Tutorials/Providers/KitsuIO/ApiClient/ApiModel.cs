@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace Jellyfin.Plugin.Anime.Providers.KitsuIO.ApiClient
+namespace Jellyfin.Plugin.Tutorials.Providers.KitsuIO.ApiClient
 {
     public class ApiListResponse
     {

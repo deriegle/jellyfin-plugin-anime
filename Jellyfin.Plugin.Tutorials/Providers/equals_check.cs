@@ -6,10 +6,10 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-using Jellyfin.Plugin.Anime.Providers.AniDB.Identity;
+using Jellyfin.Plugin.Tutorials.Providers.AniDB.Identity;
 using Microsoft.Extensions.Logging;
 
-namespace Jellyfin.Plugin.Anime.Providers
+namespace Jellyfin.Plugin.Tutorials.Providers
 {
     internal class Equals_check
     {

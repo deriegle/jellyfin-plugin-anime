@@ -4,13 +4,13 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Net.Http;
-using Jellyfin.Plugin.Anime.Providers.KitsuIO.ApiClient;
+using Jellyfin.Plugin.Tutorials.Providers.KitsuIO.ApiClient;
 using MediaBrowser.Common.Net;
 using MediaBrowser.Controller.Entities.TV;
 using MediaBrowser.Controller.Providers;
 using MediaBrowser.Model.Providers;
 
-namespace Jellyfin.Plugin.Anime.Providers.KitsuIO.Metadata
+namespace Jellyfin.Plugin.Tutorials.Providers.KitsuIO.Metadata
 {
     public class KitsuIoEpisodeProvider : IRemoteMetadataProvider<Episode, EpisodeInfo>
     {

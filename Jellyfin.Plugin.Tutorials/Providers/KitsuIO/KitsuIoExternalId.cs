@@ -4,7 +4,7 @@ using MediaBrowser.Controller.Providers;
 using MediaBrowser.Model.Entities;
 using MediaBrowser.Model.Providers;
 
-namespace Jellyfin.Plugin.Anime.Providers.KitsuIO
+namespace Jellyfin.Plugin.Tutorials.Providers.KitsuIO
 {
     public class KitsuIoExternalId : IExternalId
     {

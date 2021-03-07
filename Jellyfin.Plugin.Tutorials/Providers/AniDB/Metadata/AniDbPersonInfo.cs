@@ -1,4 +1,4 @@
-﻿namespace Jellyfin.Plugin.Anime.Providers.AniDB.Metadata
+﻿namespace Jellyfin.Plugin.Tutorials.Providers.AniDB.Metadata
 {
     public class AniDbPersonInfo
     {

@@ -4,7 +4,7 @@ using System.Buffers.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Jellyfin.Plugin.Anime.Providers.KitsuIO
+namespace Jellyfin.Plugin.Tutorials.Providers.KitsuIO
 {
     public class LongToStringConverter : JsonConverter<long>
     {

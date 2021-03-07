@@ -4,11 +4,11 @@ using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
-using Jellyfin.Plugin.Anime.Configuration;
+using Jellyfin.Plugin.Tutorials.Configuration;
 using MediaBrowser.Model.Entities;
 using MediaBrowser.Model.Providers;
 
-namespace Jellyfin.Plugin.Anime.Providers.AniSearch
+namespace Jellyfin.Plugin.Tutorials.Providers.AniSearch
 {
     /// <summary>
     /// API for https://anisearch.com
